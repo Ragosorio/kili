@@ -270,3 +270,16 @@ body{
   .no-cover img{
     object-fit: revert;
 }
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+footer a{
+    color: #000;
+    font-size: 16px;
+    font-family: "DancingScript Regular Title";
+    margin-top: -16px;
+    margin-bottom: 20px;
+}
